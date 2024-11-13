@@ -6,8 +6,10 @@
 // 'a7' 這是字串(String)，引號內的文字皆為字串
 // "go" 字串可用單引號(')或雙引號(")包起來
 
-// 在JavaScript裡沒有特別將整數與浮點數分開
+// 在JavaScript裡沒有特別將整數與小數分開
 // 因此 999、1.01 皆為數字(Number)
+// 在JavaScript中還有 NaN、Infinity 屬於數字型態
+// Infinity 表示無限、NaN 表示非數值
 
 // false 這是布林值(Boolean)
 // true 布林值僅這兩種
